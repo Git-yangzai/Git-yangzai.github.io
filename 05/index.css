@@ -65,19 +65,25 @@ body{
     transition: all 0.75s  ease 0.5s;
 }
 .content{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
     transform: translate3d(0,0,0) translateY(250px);
     position: absolute;
     top: 55%;
     z-index: 1;
+    /*justify-content: center;*/
     text-align: center;
-    margin: 0 1.618em;
+    padding: 0 1.7rem;
     opacity: 0;
 }
 .content h1{
-    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    /*text-transform: uppercase;*/
     color: deepskyblue;
     font-size: 1.44rem;
-    font-weight: normal;
+    font-weight: bold;
 }
 .name{
     position: absolute;
