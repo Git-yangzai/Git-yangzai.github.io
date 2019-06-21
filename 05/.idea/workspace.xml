@@ -84,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="973" />
     <option name="width" value="954" />
     <option name="height" value="1047" />
@@ -160,7 +160,7 @@
     <option name="totallyTimeSpent" value="21383000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="973" y="0" width="954" height="1047" extended-state="0" />
+    <frame x="973" y="0" width="954" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
