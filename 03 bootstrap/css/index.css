@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none ;
+}
+
+body{
+    font-size:14px;
+    font-family: Arial sans-serif;
+    color: #000;
+    position: relative;
+}
+
+/*图标库引入*/
+@font-face {
+    font-family: 'iconfont';  /* project id 1240601 */
+    src: url('//at.alicdn.com/t/font_1240601_42souwv6eba.eot');
+    src: url('//at.alicdn.com/t/font_1240601_42souwv6eba.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1240601_42souwv6eba.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1240601_42souwv6eba.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1240601_42souwv6eba.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1240601_42souwv6eba.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}
+
+/*按钮样式*/
+.btn-register {
+    color: #FFFFFF;
+    background-color: #0AB4F7;
+}
+.btn-register:hover,
+.btn-register:focus,
+.btn-register:active,
+.btn-register.active,
+.open .dropdown-toggle.btn-register {
+    color: #FFFFFF;
+    background-color: #086DF2;
+}
+.btn-register:active,
+.btn-register.active,
+.open .dropdown-toggle.btn-register {
+    background-image: none;
+}
+.btn-register.disabled,
+.btn-register[disabled],
+fieldset[disabled] .btn-register,
+.btn-register.disabled:hover,
+.btn-register[disabled]:hover,
+fieldset[disabled] .btn-register:hover,
+.btn-register.disabled:focus,
+.btn-register[disabled]:focus,
+fieldset[disabled] .btn-register:focus,
+.btn-register.disabled:active,
+.btn-register[disabled]:active,
+fieldset[disabled] .btn-register:active,
+.btn-register.disabled.active,
+.btn-register[disabled].active,
+fieldset[disabled] .btn-register.active {
+    background-color: #0AB4F7;
+}
+.btn-register .badge {
+    color: #0AB4F7;
+    background-color: #FFFFFF;
+}
+
+.star{
+    padding-bottom: 10px;
+}
+
+.top-bar{
+    margin-top: 70px;
+    height: 40px;
+    line-height: 39px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.top-bar .top-bar-1{
+    /*background-color: lightgreen;*/
+}
+.top-bar .top-bar-2{
+    /*background-color: lightblue;*/
+}
+.top-bar .top-bar-3{
+    /*background-color: lightpink;*/
+}
+.top-bar .top-bar-4{
+    /*background-color: lightyellow;*/
+}
+.top-bar .container .row > div ~ div{ /*或者div + div，选择兄弟元素*/
+    border-left: 1px solid #e0e0e0;
+}
+.top-bar-1 a{
+    position: relative;
+}
+.top-bar-1 a img{
+    display: none;
+}
+.top-bar-1 a:hover img{
+    display: block;
+    position: absolute;
+    left: 50%;
+    margin-left: -65px;
+    margin-top: -10px;
+    z-index: 9999;
+}
+
+
+#header .navbar-toggle{
+    margin-top: 18px;
+}
+
+
+.navbar-mine{
+    background-color: rgba(255,255,255,0.9);
+    border-top: 0px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-brand{
+    height: 70px;
+    padding: 10px 15px;
+}
+#navbar-collapse ul li.active a,
+#navbar-collapse ul li a:hover{
+    background-color: transparent;/*去除bootstrap自带的被选中时是灰色的效果*/
+    border-bottom: 2px solid #0AB4F7;
+}
+#navbar-collapse ul>li a{
+    height: 70px;
+    line-height: 40px;
+}
+
+#navbar-collapse form{
+    margin: 18px 0;
+}
+
+#carousel-generic .pic{
+    background: no-repeat center center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+@media screen and (min-width: 640px) {/*媒体查询，当窗口大小达到临界时执行语句*/
+    #carousel-generic .pic{
+        height: 410px;
+    }
+}
+
+
+#aboutus{
+    padding: 20px 0;
+}
+#aboutus .title{
+    margin-bottom: 15px;
+}
+#aboutus .container .row p{
+    line-height: 27px;
+    font-size: 15px;
+}
+#product {
+    background-color: #f0f0f0;
+}
+#product .title{
+    background-color: #fff;
+}
+#product .nav{
+    border: 0;
+}
+#product .nav li a{
+    font-size: 18px;
+    color: #999;
+}
+
+
+#product .nav li.active a,
+#product .nav li a:hover {
+    border: none;
+    color: #000;
+    background-color: transparent;/*去除bootstrap自带的被选中时是灰色的效果*/
+    border-bottom: 2px solid #0AB4F7;
+}
+.tab-pane{
+    height: 570px;
+    padding: 20px 0;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    max-width: 126%;
+}
+.pd-left>*{
+    padding: 5px 0;
+}
+/************************************热门课程********************************************/
+section#course{
+    background: url("../imgs/hero.jpeg ") no-repeat center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+#course .bg{
+    background-color: rgba(255,255,255,0.5);
+}
+#course h1{
+    margin-top: 0;
+    padding-top: 10px;
+}
+#course .lesson{
+    padding: 15px 15px 10px;
+}
+#course .media-left{
+    width: 20%;
+}
+#course .media-body{
+    width: 60%;
+}
+#course .media-right{
+    width: 20%;
+    vertical-align: middle;
+}
+#course .lesson .media-body{
+    vertical-align: middle;
+    text-align: left;
+}
+#course .lesson .media-body h4{
+    padding-bottom: 10px;
+}
+/************************************友情链接********************************************/
+#flink .logos{
+    list-style: none;
+    text-align: center;
+}
+#flink .logos li {
+    display: inline-block;
+    padding: 20px 30px;
+}
+/************************************footer********************************************/
+#footer{
+    width: 100%;
+    height: 200px;
+    padding: 10px 0;
+    background: url("../imgs/ft_bg.png") no-repeat center;
+    font-size: 16px;
+    color: #fff;
+}
+#footer .row ul{
+    list-style: none;
+}
+#footer li a{
+    color: #fff;
+    line-height: 40px;
+}
+#footer .one,
+#footer .two{
+    border-right: 1px solid #666;
+    height: 180px;
+    /*上下居中*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#footer .three{
+    padding-left: 20px;
+    height: 180px;
+    /*上下居中*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#footer .three img:first-child{
+    margin-right: 15px;
+}
+/************************************backtotop********************************************/
+#backtotop .backtotop{
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #e5e9ef;
+    background: #f7f9fa;
+    border-radius: 6px;
+    text-align: center;/*水平居中*/
+    line-height: 50px;/*垂直居中*/
+    box-shadow: 0px 6px 10px 0 hsla(0,0%,72.9%,.3);
+    cursor: pointer;
+}
+#backtotop .backtotop i{
+    color: #999;
+    font-size: 1.5em;
+}
+#backtotop .backtotop:hover{
+    background:#00a1d6;
+}
+#backtotop .backtotop:hover i{
+    color: #fff;
+}
+#backtotop .touxiang{
+    position: fixed;
+    right: 26px;
+    bottom: 150px;
+    width: 100px;
+    height: 100px;
+    background-image: url('../imgs/touxiang1.png');
+    background-repeat:no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+}
+#backtotop:hover .touxiang{
+    background-image: url('../imgs/touxiang2.png');
+}
+
