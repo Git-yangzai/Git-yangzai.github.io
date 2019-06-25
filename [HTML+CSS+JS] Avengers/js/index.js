@@ -1,4 +1,6 @@
-/*B站：蠢萌的洋仔
+/*
+Github：@Git-yangzai || Git-yangzai.github.io
+B站：蠢萌的洋仔
  否原创：否
 观看原视频请移步：https://www.bilibili.com/video/av51086565/
 最后修改于：2019.06.25
