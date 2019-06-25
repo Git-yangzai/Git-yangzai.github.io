@@ -1,2 +1,3 @@
 # Git-yangzai.github.io
-my website
+
+一个不懂计算机的门外boy。
