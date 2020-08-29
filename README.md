@@ -13,7 +13,7 @@
 
 ### 个人博文样例 2（可点击图片进行跳转）
 
-[<img src="https://pic.leetcode-cn.com/07da9f92c93a170cb033063e1fe0c353fa9c3671eab57e7704c2922159383613-3.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" />]([](https://leetcode-cn.com/problems/maximum-product-subarray/solution/python5xing-bu-tong-yu-hui-su-dpde-tricksjie-fa-by/))
+[<img src="https://pic.leetcode-cn.com/07da9f92c93a170cb033063e1fe0c353fa9c3671eab57e7704c2922159383613-3.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" />](https://leetcode-cn.com/problems/maximum-product-subarray/solution/python5xing-bu-tong-yu-hui-su-dpde-tricksjie-fa-by/)
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-# 个人公众号
+# 个人公众号（可点击图片进行跳转）
 
 励志用**幽默风趣**的方式讲解技术问题（预备后期将力扣的用户引流到个人公众号，力扣上分享理论技术，公众号分享软件实际操作）
 
