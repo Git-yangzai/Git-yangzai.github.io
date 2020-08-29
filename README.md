@@ -1,8 +1,79 @@
 # Git-yangzai.github.io
 
-[](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-leetcode-solution/)
+首先，感谢 hr 小哥哥、小姐姐百忙中抽出时间查看我的简历拓展项。如果仅希望了解简历中涉及到的实习样例请点击下方的图片。
 
-[个人博文样例1](https://leetcode-cn.com/problems/combination-sum/solution/chao-qiang-gifzhu-ni-shi-yong-dong-tai-gui-hua-qiu/)
+更多更详尽的个人情况请继续往下看哦😁
 
-[个人博文样例2](https://leetcode-cn.com/problems/maximum-product-subarray/solution/python5xing-bu-tong-yu-hui-su-dpde-tricksjie-fa-by/)
+### 力扣视频样例（可点击图片进行跳转）
+
+[<img src="/pic/B2A40034-4F89-4AEE-8546-F5DB112B44D9.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" style="zoom:20%;" />](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-leetcode-solution/)
+
+### 个人博文样例 1（可点击图片进行跳转）
+[![123](/Users/macly/Desktop/pic/ed4f041592003fc654099ea3ad89e7c6debba3eceea7722d1dd5ff80145a18cc-5.gif)](https://leetcode-cn.com/problems/combination-sum/solution/chao-qiang-gifzhu-ni-shi-yong-dong-tai-gui-hua-qiu/)
+
+### 个人博文样例 2（可点击图片进行跳转）
+
+[<img src="https://pic.leetcode-cn.com/07da9f92c93a170cb033063e1fe0c353fa9c3671eab57e7704c2922159383613-3.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" />]([](https://leetcode-cn.com/problems/maximum-product-subarray/solution/python5xing-bu-tong-yu-hui-su-dpde-tricksjie-fa-by/))
+
+
+
+# 项目经历
+
+##### 项目名称：基于深度学习的危险车间人员管控技术研究
+
+- 时间：2018.09 – 2020.12 
+- 等级：国防科工局重点项目
+
+##### 项目描述：
+
+鉴于某危险品装配车间需对人员进行实时检测及定位，本项目在1000m^2车间内部署全方位覆盖的图像传感器，同步获取车间内实时视频流；通过深度神经网络对生产车间人员进行识别，进而对车间人员**数量及行为**进行监控，达到无人化监管目的。
+
+##### 我的职责——项目<font color=green>核心</font>成员：
+
+- 前期：项目调研，实地考察车间情况，筹划传感器选型及部署方案。
+
+- 中期：带领5人团队，一起攻关技术难点，将团队划分成3个方向并分配任务：
+
+  1. 神经网络设计团队：在采集到数据的基础上，设计深度卷积神经网络，对视频流中的人员进行识别计数；
+
+  2. 人员行为识别团队：利用深度视觉传感器，采集人员骨架信息训练模型，进而识别车间人员行为；
+  3. 网页端部署团队：搭建网页端，从前面两个团队获取数据，在网页端进行展示。
+
+- 后期：起到甲方(航天集团)、指导老师、团队成员的纽带作用，收集并记录甲方提出的意见，与团队成员进行技术可实现性分析，形成技术报告，汇总给甲方及指导老师。
+
+##### 项目成果：
+
+该项目经航天集团应用验证符合任务要求，全局人数管控误差±1人，人员定位精度±2m，节约2名人工成本，现已在航天某车间正常运行。
+
+
+
+# 个人公众号
+
+励志用**幽默风趣**的方式讲解技术问题（预备后期将力扣的用户引流到个人公众号，力扣上分享理论技术，公众号分享软件实际操作）
+
+[![ly公众号](/Users/macly/Desktop/pic/mmexport1598692300449.jpg)](https://mp.weixin.qq.com/s/mzAyh8zKoUJGNiL4JNNkUQ)
+
+
+
+# 学术成果
+
+##### 论文
+
+刘庭煜, 钟杰, 刘洋,等. 面向车间人员宏观行为数字孪生模型快速构建的小目标智能检测方法[J]. 计算机集成制造系统, 2019, 025(006):1463-1473.（已发表，第三作者）
+
+##### 专利
+
+一种车间人员数字孪生体模型快速构建方法（专利号：201810971654.7）（实质审查阶段，第三作者）
+
+
+
+# 科技竞赛奖项
+
+- 2019-2020            阿里云天池大数据竞赛---行人**多目标跟踪** 全国第5名（国级）
+
+- 2019-2020            阿里移动**推荐算法**离线赛全国73/12157（**5‰** 国级）
+- 2019-2020            中兴捧月“神算师”算法挑战赛区域优胜奖（国级）
+- 2019-2020            “中深杯”全国高校新能源汽车大数据创新创业大赛全国第10名（国级）
+- 2019-2020            “泰迪杯”数据挖掘挑战赛全国二等奖（国级）、江苏省一等奖（省级）
+- 2019-2020            “华为杯”中国研究生数学建模竞赛全国三等奖（国级）
 
