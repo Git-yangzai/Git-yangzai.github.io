@@ -9,7 +9,7 @@
 [<img src="/pic/B2A40034-4F89-4AEE-8546-F5DB112B44D9.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" style="zoom:20%;" />](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-leetcode-solution/)
 
 ### 个人博文样例 1（可点击图片进行跳转）
-[![123](/Users/macly/Desktop/pic/ed4f041592003fc654099ea3ad89e7c6debba3eceea7722d1dd5ff80145a18cc-5.gif)](https://leetcode-cn.com/problems/combination-sum/solution/chao-qiang-gifzhu-ni-shi-yong-dong-tai-gui-hua-qiu/)
+[<img src="/pic/5.gif" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" />](https://leetcode-cn.com/problems/combination-sum/solution/chao-qiang-gifzhu-ni-shi-yong-dong-tai-gui-hua-qiu/)
 
 ### 个人博文样例 2（可点击图片进行跳转）
 
