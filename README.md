@@ -51,7 +51,7 @@
 
 励志用**幽默风趣**的方式讲解技术问题（预备后期将力扣的用户引流到个人公众号，力扣上分享理论技术，公众号分享软件实际操作）
 
-[![ly公众号](/Users/macly/Desktop/pic/mmexport1598692300449.jpg)](https://mp.weixin.qq.com/s/mzAyh8zKoUJGNiL4JNNkUQ)
+[<img src="/pic/0530D8FFA1A9D8E895FD44B58C0D4CF8.jpg" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" style="zoom:20%;" />](https://mp.weixin.qq.com/s/mzAyh8zKoUJGNiL4JNNkUQ)
 
 
 
