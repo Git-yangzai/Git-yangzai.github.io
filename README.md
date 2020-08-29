@@ -2,8 +2,6 @@
 
 首先，感谢 hr 小哥哥、小姐姐百忙中抽出时间查看我的简历拓展项。如果仅希望了解简历中涉及到的实习样例请点击下方的图片。
 
-更多更详尽的个人情况请继续往下看哦😁
-
 ### 力扣视频样例（可点击图片进行跳转）
 
 [<img src="/pic/B2A40034-4F89-4AEE-8546-F5DB112B44D9.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" style="zoom:20%;" />](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-leetcode-solution/)
@@ -16,6 +14,8 @@
 [<img src="https://pic.leetcode-cn.com/07da9f92c93a170cb033063e1fe0c353fa9c3671eab57e7704c2922159383613-3.png" alt="B2A40034-4F89-4AEE-8546-F5DB112B44D9" />](https://leetcode-cn.com/problems/maximum-product-subarray/solution/python5xing-bu-tong-yu-hui-su-dpde-tricksjie-fa-by/)
 
 
+
+更多更详尽的个人情况请继续往下看哦😁
 
 # 项目经历
 
